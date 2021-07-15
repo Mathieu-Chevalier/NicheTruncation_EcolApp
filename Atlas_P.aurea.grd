@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2021-03-23 14:09:54
+[georeference]
+nrows=93
+ncols=198
+xmin=-31.85
+ymin=34.75
+xmax=67.15
+ymax=81.25
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=0
+maxvalue=1
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=OCC
